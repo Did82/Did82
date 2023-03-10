@@ -3,7 +3,7 @@
 ## 🌱 I’m currently learning
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=ts,nodejs,deno,rust,react,solidjs,svelte,vue,nextjs,tailwindcss,prisma,docker,linux" alt="TypeScript, Node.js, NestJS, React, Next.js, Remix, Astro, Tailwind, Prisma, Docker, Linux" />
+    <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,react,remix,astro,nextjs,tailwindcss,prisma,docker,linux" alt="TypeScript, Node.js, NestJS, React, Next.js, Remix, Astro, Tailwind, Prisma, Docker, Linux" />
   </a>
 </p>
 
